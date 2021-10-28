@@ -6,17 +6,20 @@
 
 .title{
  font-family: 'Alfa Slab One', cursive;;
-font-size: 30px;
+font-size: 35px;
 text-align: center;
 
 }
 .menu{
     text-align: center;
    font-family: 'Courgette', cursive;
+   padding: 40px;
 
 }
 .menu a{
     display: inline-block;
+    width: 80px;
+    height: 15px;
     padding: 10px;
     margin: 10px;
     font-family: 'Courgette', cursive;
@@ -24,7 +27,7 @@ text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
    color: #aaa3a3;
 }
- a:active{
+  header nav a.active{
     color: white;
-    background-color: rgb(255, 51, 0);
+    background-color: rgb(192, 29, 70);
 }
