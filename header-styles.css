@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "mine";
+    src: url("/fonts/alpha_echo.ttf");
+}
+
+
+.title{
+ font-family: 'Alfa Slab One', cursive;;
+font-size: 30px;
+text-align: center;
+
+}
+.menu{
+    text-align: center;
+   font-family: 'Courgette', cursive;
+
+}
+.menu a{
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Courgette', cursive;
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   color: #aaa3a3;
+}
+ a:active{
+    color: white;
+    background-color: rgb(255, 51, 0);
+}
