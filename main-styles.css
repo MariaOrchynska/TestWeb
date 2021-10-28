@@ -8,9 +8,16 @@ img{
     padding-right: 30px;
     margin-bottom : 0px;
 }
+.dog{
+    padding-top : 30px;
+    height: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom : 0px;
+}
 .palm{
     background-color: rgb(255, 255, 255);
-    width: 500px;
+    width: 700px;
     margin-top: 0;
     padding-right : 15px;
     padding-left: 15px;
@@ -31,4 +38,13 @@ main{
 }
 .text-one{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.second-block{
+    background-color: rgb(255, 255, 255);
+    width: 350px;
+    height: 300px;
+    margin-top: 0;
+    padding-right : 10px;
+    padding-left: 0px;
+    margin-bottom: 0px;
 }
