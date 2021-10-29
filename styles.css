@@ -1,6 +1,7 @@
 @import url(header-styles.css);
 @import url(main-styles.css);
-/* .general{
-   background: rgb(230, 227, 227);
-} */
+@import url(footer-styles.css);
+body{
+    height: 1345px;
+}
 

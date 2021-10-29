@@ -1,0 +1,47 @@
+
+    footer {
+        display: flex;
+        justify-content: space-evenly;
+        margin-top: 40px;
+        position:sticky;
+        bottom:0;
+        height: 300px;
+        width: 100%;
+        background-color: #333;
+        color: rgb(252, 248, 248);
+    
+     }
+     .footer-title{
+         padding-top: 35px;
+         padding-left: 50px;
+        
+
+     }
+     .links-footer-one{
+         height: 250px;
+         color: rgb(255, 255, 255);
+     }
+     .links-footer-one a{
+         padding: 5px;
+        color: rgb(255, 255, 255);
+     }
+     .links-footer-two a{
+        color: rgb(255, 255, 255);
+     }
+     
+     .footer-title-last{
+         text-align: center;
+         padding-top: 35px;
+     }
+    
+     .adresses{
+text-align: left;
+padding: 20px;
+margin: 5px;
+     }
+     .inner-one {
+         text-align: right;
+         font-size: 15px;
+         color: rgb(134, 131, 131);
+         background-color: salmon;
+     }

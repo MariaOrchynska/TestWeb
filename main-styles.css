@@ -21,6 +21,7 @@ header{
 }
 .palm{
     background-color: rgb(255, 255, 255);
+    height: 2000px;
     width: 700px;
     margin-top: 0;
     padding-right : 15px;
